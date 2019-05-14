@@ -50,7 +50,7 @@ String.toLocaleString({
     "%game-won"             : "You win!",
     "%game-over"            : "Game over!",
     "%game-explanation"     : "<strong class=\"important\">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same symbol touch, they <strong>get promoted!</strong>",
-    "%disclaimer"           : "<strong class=\"important\">Note:</strong> <a href=\"http://prettypete.github.io/2048-Atower\">git.io/simatowah</a> is a spin-off of the official version of <a href=\"http://git.io/2048\">2048</a> created by <a href=\"http://gabrielecirulli.com\" target=\"_blank\">Gabriele Cirulli</a>.",
+    "%disclaimer"           : "<strong class=\"important\">Note:</strong> <a href=\"http://prettypete.github.io/2048-Atower\">http://prettypete.github.io/2048-Atower</a> is a spin-off of the official version of <a href=\"http://git.io/2048\">2048</a> created by <a href=\"http://gabrielecirulli.com\" target=\"_blank\">Gabriele Cirulli</a>.",
     "%credits"              : "Simmons images by <a href=\"http://simmons-hall.mit.edu/\" title=\"Simmons Hall | A-Tower | About\">Simmons Hall</a>.",
     "%tweet1"               : "I scored \"",
     "%tweet2"               : " at 2048-A-Tower #2048game",
