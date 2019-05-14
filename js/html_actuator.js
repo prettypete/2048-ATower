@@ -172,7 +172,7 @@ HTMLActuator.prototype.scoreTweetButton = function () {
   tweet.classList.add("twitter-share-button");
   tweet.setAttribute("href", "https://twitter.com/share");
   tweet.setAttribute("data-via", "giampiex");
-  tweet.setAttribute("data-url", "http://git.io/simatowah");
+  tweet.setAttribute("data-url", "http://prettypete.github.io/2048-Atower");
   tweet.setAttribute("data-counturl", "http://prettypete.github.io/2048-Atower");
   tweet.textContent = "Tweet";
 
