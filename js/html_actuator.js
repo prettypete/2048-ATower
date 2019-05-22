@@ -172,8 +172,8 @@ HTMLActuator.prototype.scoreTweetButton = function () {
   tweet.classList.add("twitter-share-button");
   tweet.setAttribute("href", "https://twitter.com/share");
   tweet.setAttribute("data-via", "giampiex");
-  tweet.setAttribute("data-url", "http://prettypete.github.io/2048-Atower");
-  tweet.setAttribute("data-counturl", "http://prettypete.github.io/2048-Atower");
+  tweet.setAttribute("data-url", "http://prettypete.github.io/2048-ATower");
+  tweet.setAttribute("data-counturl", "http://prettypete.github.io/2048-ATower");
   tweet.textContent = "Tweet";
 
   var text = Localize("tweet1") + Localize( this.score ).toUpperCase() + '", ' + this.points + " strength " + Localize("tweet2");
